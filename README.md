@@ -87,6 +87,7 @@ Usa el número del mes (1-12). Ejemplo para Agosto:
 ```
 
 🛠️ Tecnologías
+
 Lenguaje: Go (v1.25.5)
 
 Almacenamiento: Archivo JSON local
