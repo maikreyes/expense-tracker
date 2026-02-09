@@ -89,18 +89,8 @@ Usa el número del mes (1-12). Ejemplo para Agosto:
 🛠️ Tecnologías
 Lenguaje: Go (v1.25.5)
 
-Librerías: (Estándar de Go / Cobra / Flag - Ajusta esto si usaste alguna externa)
-
 Almacenamiento: Archivo JSON local
 
-📂 Estructura del Proyecto
-Plaintext
-expense-tracker/
-├── main.go           # Punto de entrada
-├── cmd/              # Lógica de los comandos CLI
-├── internal/         # Manejo de archivos y lógica de negocio
-├── expenses.json     # Base de datos local (generada al usar la app)
-└── README.md
 🤝 Contribuciones
 Las sugerencias y Pull Requests son bienvenidos. Si encuentras algún error, por favor abre un issue en el repositorio.
 
